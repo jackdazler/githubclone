@@ -8,6 +8,7 @@ font-family: $font-medium;
 border-top-left-radius: 1rem;
 border-top-right-radius: 1rem;
 text-transform: capitalize;
+
 .head-wrap{
     position: relative;
     display: flex;
@@ -57,6 +58,11 @@ text-transform: capitalize;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
+        @media only screen and (max-width: $media-sm) {
+            margin: 2rem auto;
+            flex-wrap: nowrap;
+
+        }
     
         .nav-link{
             margin: 0 2rem;     
