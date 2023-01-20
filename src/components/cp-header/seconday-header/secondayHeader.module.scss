@@ -1,0 +1,62 @@
+@import '../../../styles/globalSass/variable.scss';
+.cp-sec-header{
+background-color: green;
+// height: 5.5rem;
+border: 1px solid #d0d7de;
+background-color:#f6f8fa;
+font-family: $font-medium;
+border-top-left-radius: 1rem;
+border-top-right-radius: 1rem;
+text-transform: capitalize;
+.head-wrap{
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-content: center;
+     padding: 2rem 0;
+     font-size: 1.6rem;
+     color: gray;
+     justify-content: space-between;
+     flex-wrap: wrap;
+    .left-wrap{
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: space-between;
+        .status{
+         width: 2rem;
+         height: 2rem;
+         background-color: red;
+         border-radius: 50%;
+         margin-left: 2rem;
+        }
+        .status-space{
+            margin-left: 2rem;
+        }
+        .status-open{
+            font-family: $font-semiBold;
+            margin-left: 1rem;
+            color: black;
+        }
+        .status-done{
+          
+           
+            margin-left: 2rem;
+        }
+      
+    }
+    .right-wrap{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    
+        .nav-link{
+            margin: 0 2rem;
+            ::before{
+
+            }
+         
+        }
+    }
+}
+}

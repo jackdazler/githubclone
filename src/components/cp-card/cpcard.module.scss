@@ -1,0 +1,66 @@
+@import '../../styles/globalSass/variable.scss';
+
+.cp-card {
+    border: 1px solid #d0d7de;
+    text-transform: capitalize;
+    font-family: $font-medium;
+    font-size: 1.6rem;
+    .card-item {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 2rem 2rem;
+        .card-lhs{
+            width: 50%;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+           text-align: center;
+            .issue-status{
+                height: 2rem;
+                width: 2rem;
+                border-radius: 50%;
+                background-color: red;
+                margin-right: 1rem;
+            }
+            .issue-labels{
+                margin-left: 2rem;
+                background-color: blueviolet;
+                border: 1px solid #d0d7de;
+                border-radius: 50px;
+                padding: 0.5rem 1rem;
+                width: auto;
+                align-items: center;
+                justify-content: center;
+                font-family: $font-medium;
+                text-align: center;
+                letter-spacing: normal;
+                font-size: 1.2rem;
+               z-index: 1;
+            }
+            .issue-timestamp{
+                margin-top: 1rem;
+                font-size: 1.2rem;
+                color: lightgray; ;
+            }
+            
+        }
+       .card-rhs{
+         display: flex;
+         justify-content: space-between;
+        .profile {
+            .profile-wrap {
+                position: relative;
+                height: 2rem;
+                width: 2rem;
+                border: 0.8px solid gray;
+                border-radius: 50%;
+                overflow: hidden;
+            }
+        }
+        .comment{
+            margin-left: 5rem;
+        }
+    }
+    }
+}
