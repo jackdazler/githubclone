@@ -1,0 +1,46 @@
+@import 'variable.scss';
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+
+    @media(min-width: 992px) and (max-width:1200px) {
+        font-size: 8.2px;
+    }
+
+    @media(min-width: 1279px) and (max-width:1440px) {
+        font-size: 8.9px;
+    }
+
+    @media(min-width: 1600px) {
+        font-size: 12.4px;
+    }
+}
+
+body {
+    font-family: $font-regular;
+    overflow-x: hidden;
+    position: relative;
+    scrollbar-gutter: initial;
+    width: 100%;
+    
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0;
+    width: 83%;
+}
+
+.hide {
+    display: none;
+}
+
