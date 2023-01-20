@@ -48,6 +48,7 @@
        .card-rhs{
          display: flex;
          justify-content: space-between;
+         flex-wrap: wrap;
         .profile {
             .profile-wrap {
                 position: relative;
