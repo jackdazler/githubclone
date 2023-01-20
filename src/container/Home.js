@@ -5,7 +5,6 @@ import { getIssueData } from "../components/cp-card/cpcard_mock";
 const Home = () => {
   const [data, setData] = useState([{}]);
   const [page,setPage] = useState(10);
-  console.log(data);
   
   useEffect(() => {
     setData(getIssueData());

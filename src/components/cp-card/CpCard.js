@@ -1,23 +1,7 @@
-import React,{useEffect} from "react";
+import React from "react";
 import styleCard from "./cpcard.module.scss";
 const CpCard = (props) => {
-  useEffect(() => {
-    function handleScrollEvent() {
-      if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
-         console.log("you're at the bottom of the page");
-         // here add more items in the 'filteredData' state from the 'allData' state source.
-      }
-   
-    }
-  
-    window.addEventListener('scroll', handleScrollEvent)
-  
-    return () => {
-      window.removeEventListener('scroll', handleScrollEvent);
-    }
-  }, [])
   return (
-    
     <>
       <div className={`${styleCard["cp-card"]} container`}>
         <div className={styleCard["card-item"]}>
