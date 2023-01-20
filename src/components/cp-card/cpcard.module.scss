@@ -17,10 +17,11 @@
             align-items: center;
            text-align: center;
             .issue-status{
-                height: 2rem;
-                width: 2rem;
-                border-radius: 50%;
-                background-color: red;
+                color: green;
+                font-size: 2rem;
+                line-height: 1rem;
+                align-items: center;
+                text-align: center;
                 margin-right: 1rem;
             }
             .issue-labels{
@@ -60,7 +61,16 @@
             }
         }
         .comment{
+            text-align: center;
             margin-left: 5rem;
+            display: flex;
+            .comment-icon{
+                font-size: 2rem;
+               
+            }
+        }
+        .comment-len{
+            margin-left: 1rem;
         }
     }
     }
