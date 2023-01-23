@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/githubclone/static/css/main.7c453914.css",
+    "main.js": "/githubclone/static/js/main.33f1895a.js",
+    "static/media/Montserrat-SemiBold.svg": "/githubclone/static/media/Montserrat-SemiBold.d8d66eaee90d82496807.svg",
+    "static/media/Montserrat-Bold.svg": "/githubclone/static/media/Montserrat-Bold.bc7f1c4c6b636fe83681.svg",
+    "static/media/Montserrat-Light.svg": "/githubclone/static/media/Montserrat-Light.db9708e7d52db5c926ec.svg",
+    "static/media/Montserrat-Medium.svg": "/githubclone/static/media/Montserrat-Medium.726e7481f0a6dd9cfa2b.svg",
+    "static/media/Montserrat-Regular.svg": "/githubclone/static/media/Montserrat-Regular.ecda45c6af6dfb307f7b.svg",
+    "static/media/Montserrat-SemiBold.ttf": "/githubclone/static/media/Montserrat-SemiBold.7c23e875330b939742d2.ttf",
+    "static/media/Montserrat-Light.ttf": "/githubclone/static/media/Montserrat-Light.9a41d297ac6243c59412.ttf",
+    "static/media/Montserrat-Medium.ttf": "/githubclone/static/media/Montserrat-Medium.4bd0a5a6e0b3cfb0abf1.ttf",
+    "static/media/Montserrat-Bold.ttf": "/githubclone/static/media/Montserrat-Bold.02d72bf4fb269549b276.ttf",
+    "static/media/Montserrat-Regular.ttf": "/githubclone/static/media/Montserrat-Regular.e3d4e44ee75e77d28c76.ttf",
+    "static/media/Montserrat-SemiBold.eot": "/githubclone/static/media/Montserrat-SemiBold.2779892d05bfd54ef0d5.eot",
+    "static/media/Montserrat-Medium.eot": "/githubclone/static/media/Montserrat-Medium.8ec0f3b5fbdafd66840c.eot",
+    "static/media/Montserrat-Light.eot": "/githubclone/static/media/Montserrat-Light.b012d42ed64d27fe2e2c.eot",
+    "static/media/Montserrat-Bold.eot": "/githubclone/static/media/Montserrat-Bold.d6063c0ac628138e9a38.eot",
+    "static/media/Montserrat-Regular.eot": "/githubclone/static/media/Montserrat-Regular.ddc1ffaf39f45b74f29b.eot",
+    "static/media/Montserrat-Bold.woff": "/githubclone/static/media/Montserrat-Bold.7bf2e6b4444126d64021.woff",
+    "static/media/Montserrat-SemiBold.woff": "/githubclone/static/media/Montserrat-SemiBold.e6848df1f58399e46493.woff",
+    "static/media/Montserrat-Medium.woff": "/githubclone/static/media/Montserrat-Medium.3ef552b3d946f46bcce5.woff",
+    "static/media/Montserrat-Regular.woff": "/githubclone/static/media/Montserrat-Regular.fd460d45a5f0177d2021.woff",
+    "static/media/Montserrat-Light.woff": "/githubclone/static/media/Montserrat-Light.a94d2ad0d8140717fa22.woff",
+    "static/media/Montserrat-Bold.woff2": "/githubclone/static/media/Montserrat-Bold.8023a25a71132bfe8e1e.woff2",
+    "static/media/Montserrat-Medium.woff2": "/githubclone/static/media/Montserrat-Medium.d089e0dbe8922edb620b.woff2",
+    "static/media/Montserrat-SemiBold.woff2": "/githubclone/static/media/Montserrat-SemiBold.fee9e109ccff3d68bbba.woff2",
+    "static/media/Montserrat-Regular.woff2": "/githubclone/static/media/Montserrat-Regular.4ac60ad99dfd3b10b23f.woff2",
+    "static/media/Montserrat-Light.woff2": "/githubclone/static/media/Montserrat-Light.cc8a945c91630b26f80e.woff2",
+    "static/media/icomoon.svg?gkxjvg": "/githubclone/static/media/icomoon.5442bbf985e7db0d2806.svg",
+    "static/media/icomoon.eot?gkxjvg": "/githubclone/static/media/icomoon.9eedee1684ddca36e0b8.eot",
+    "static/media/icomoon.woff?gkxjvg": "/githubclone/static/media/icomoon.a555091abbd8dc4b8057.woff",
+    "static/media/icomoon.ttf?gkxjvg": "/githubclone/static/media/icomoon.6c5b763e86a555b2250e.ttf",
+    "index.html": "/githubclone/index.html",
+    "main.7c453914.css.map": "/githubclone/static/css/main.7c453914.css.map",
+    "main.33f1895a.js.map": "/githubclone/static/js/main.33f1895a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c453914.css",
+    "static/js/main.33f1895a.js"
+  ]
+}
